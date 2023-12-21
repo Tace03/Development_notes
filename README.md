@@ -36,6 +36,25 @@ SSH (Secure Shell) protocol ensures a secure connection between two machines.<br
 In terms of using SSH in Github, we set up a safe connection between our machine and Github.com server to retrieve/upload data without the need of providing username and password every time. Key notes about setting up is as below:
 - Set a private SSH and add to SSH Agent
 - Add public SSH key to account on Github before using the key to authenticate and commit
+<br>
+The guide for two tasks are below:
+- Set up private key: (to be confirmed)
+- Public key: (to be confirmed)
+
+## Tech Stack and Building Tools
+Determining a tech stack refers to the process of cherry picking technology that is going to be used to develop the full project delivered. For a fully integrated project, almost all the time the project will consists of these components, as well as the common layer of tech used:
+- Front-end: Usually GUI (Tkinter: Python, Qt: C++, etc., HTML/CSS/GUI frameworks: Web) or CLI tools. In charge of interfacing and collect data from users/outer sources <br><br>
+  |Language|Framework       |
+  |--------|----------------|
+  |Python  | Tkinter        |
+  |C++     | Qt             |
+  |CSS     | Bootstrap, etc.|
+- Logic: Depends on which logic we want to resolve. A large portion of code in the market is Website. However, there is a strong growth in ML/AI logic in general. Embedded systems/Cybersecurity tools claim a smaller proportion in the market right now.
+- Back-end: Focus on managing the database, serve queries and return data to front-end/use of logic<br>
+  List of frequently used database frameworks: SQL variants (MySQL, PostgreSQL, SQLite, etc.) <br>
+- External tools: Connection Protocols (HTTPS, SSH, IoT Protocols, etc.)/ System Security (Firewalls, IDS, IPS)
+
+
 
 
 
