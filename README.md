@@ -27,3 +27,27 @@ You can either download it through web by Git website, or type the corresponding
 After installing, check if git is properly installed using the command:
 - Linux: `git --version`
 - Windows: (To be confirmed)
+<br>
+
+### SSH Setup
+
+SSH (Secure Shell) protocol ensures a secure connection between two machines.<br>
+
+In terms of using SSH in Github, we set up a safe connection between our machine and Github.com server to retrieve/upload data without the need of providing username and password every time. Key notes about setting up is as below:
+- Set a private SSH and add to SSH Agent
+- Add public SSH key to account on Github before using the key to authenticate and commit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
