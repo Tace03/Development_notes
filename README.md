@@ -26,7 +26,7 @@ You can either download it through web by Git website, or type the corresponding
 
 After installing, check if git is properly installed using the command:
 - Linux: `git --version`
-- Windows: (To be confirmed)
+- Windows: `git --version`
 <br>
 
 ### SSH Setup
